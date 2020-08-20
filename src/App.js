@@ -9,8 +9,6 @@ import Social from './components/Social';
 import Footer from './components/Footer';
 import Hamburger from './components/Hamburger';
 
-
-import 'normalize.css/normalize.css';
 import './Styles/styles.scss';
 
 function App() {
